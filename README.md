@@ -48,12 +48,24 @@ Charts Created:
 # 🔹 Dashboard 3 – Details
 - Loan Status Grid View
 - Aggregated metrics by Loan Status
-- 
+ 
 # 💡 Key Business Insights
 - 36-month loans dominate the portfolio.
 - Debt consolidation is the most common loan purpose.
 - Higher DTI borrowers show increased default risk.
 - Certain states contribute the highest funded amounts.
+
+
+
+## 📁  Files Included
+
+- **`Excel file with complete Bank Loan Report(original, with data)`**
+-  <a href='https://github.com/BrishtiSutradhar/Financial-Loan-Data-Analysis-Excel-Dashboard/blob/main/Finance_Loan_Deshboard.xlsx'>Financial-Loan-Data-Analysis-Excel-Dashboard.xlx</a>
+
+
+- **`Data source used for the analysis `**
+-  <a href='https://github.com/BrishtiSutradhar/Road-Accident-Analysis_Power-BI/blob/main/Road%20Accident%20Data.xlsx'> Road Accident Data.xlsx </a>
+
 
 
 
