@@ -69,7 +69,7 @@ Charts Created:
 ## 📝 Screenshots / Samples
 
 Show what the dashboard looks like. - ![Alt text](https://github.com/username/repo/assets/image.png)
-Preview visuals available in [`Export/Financial-Loan-Data-Analysis-Excel-Project_Dashboard.png`]!
+Preview visuals available in [`Export/Bank Loan Report Summary Dashboard.png`]! & [`Export/Bank Loan Report Overview Dashboard.png`]
 
 <img width="1131" height="576" alt="Screenshot 2026-02-13 212813" src="https://github.com/user-attachments/assets/e8f17731-46db-416d-9bdf-e79197323967" />
 <img width="1144" height="591" alt="Screenshot 2026-02-13 212500" src="https://github.com/user-attachments/assets/6d02eacf-9c77-4220-b97b-a14e85d0461a" />
