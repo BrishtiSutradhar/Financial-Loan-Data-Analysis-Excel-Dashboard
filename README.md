@@ -60,16 +60,19 @@ Charts Created:
 ## 📁  Files Included
 
 - **`Excel file with complete Bank Loan Report(original, with data)`**
--  <a href='https://github.com/BrishtiSutradhar/Financial-Loan-Data-Analysis-Excel-Dashboard/blob/main/Finance_Loan_Deshboard.xlsx'>Financial-Loan-Data-Analysis-Excel-Dashboard.xlx</a>
+-  <a href='https://github.com/BrishtiSutradhar/Financial-Loan-Data-Analysis-Excel-Dashboard/blob/main/Finance_Loan_Deshboard.xlsx'>Financial Loan Data Analysis Excel Dashboard.xlsx</a>
 
 - **`Data source used for the analysis `**
 -  <a href='https://github.com/BrishtiSutradhar/Financial-Loan-Data-Analysis-Excel-Dashboard/blob/main/Financial_loan_data.csv'>Financial loan data.csv</a>
 
 
+## 📝 Screenshots / Samples
 
+Show what the dashboard looks like. - ![Alt text](https://github.com/username/repo/assets/image.png)
+Preview visuals available in [`Export/Financial-Loan-Data-Analysis-Excel-Project_Dashboard.png`]!
 
-
-
+<img width="1131" height="576" alt="Screenshot 2026-02-13 212813" src="https://github.com/user-attachments/assets/e8f17731-46db-416d-9bdf-e79197323967" />
+<img width="1144" height="591" alt="Screenshot 2026-02-13 212500" src="https://github.com/user-attachments/assets/6d02eacf-9c77-4220-b97b-a14e85d0461a" />
 
 
 
