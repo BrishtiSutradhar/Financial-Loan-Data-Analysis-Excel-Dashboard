@@ -62,9 +62,8 @@ Charts Created:
 - **`Excel file with complete Bank Loan Report(original, with data)`**
 -  <a href='https://github.com/BrishtiSutradhar/Financial-Loan-Data-Analysis-Excel-Dashboard/blob/main/Finance_Loan_Deshboard.xlsx'>Financial-Loan-Data-Analysis-Excel-Dashboard.xlx</a>
 
-
 - **`Data source used for the analysis `**
--  <a href='https://github.com/BrishtiSutradhar/Road-Accident-Analysis_Power-BI/blob/main/Road%20Accident%20Data.xlsx'> Road Accident Data.xlsx </a>
+-  <a href='https://github.com/BrishtiSutradhar/Financial-Loan-Data-Analysis-Excel-Dashboard/blob/main/Financial_loan_data.csv'>Financial loan data.csv</a>
 
 
 
